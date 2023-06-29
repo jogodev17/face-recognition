@@ -12,7 +12,7 @@ import Register from "./components/Register/Register";
 import "./App.css";
 
 const particlesOptions = {
-  fpsLimit: 60,
+  fpsLimit: 120,
   particles: {
     color: {
       value: "#ffffff",
